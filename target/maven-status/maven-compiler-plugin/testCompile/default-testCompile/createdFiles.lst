@@ -1,0 +1,17 @@
+practicum\api\UserApiSteps.class
+practicum\dto\UserDto.class
+practicum\api\CheckSteps.class
+practicum\test\UpdateUserDataTests.class
+practicum\dto\IngredientsListDto.class
+practicum\test\GetListofOrdersTest.class
+practicum\test\OrderCreationTests.class
+practicum\httprequest\UserHTTPRequests.class
+practicum\dto\OrderDto.class
+practicum\util\UrlPath.class
+practicum\httprequest\BaseHTTPRequests.class
+practicum\test\UserAuthTest.class
+practicum\test\UserCreationTests.class
+practicum\api\OrderApiSteps.class
+practicum\dto\UserAuthDto.class
+practicum\dto\IngredientDto.class
+practicum\httprequest\OrderHTTPRequests.class
