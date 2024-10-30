@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: practicum.test.UpdateUserDataTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.49 s - in practicum.test.UpdateUserDataTests
